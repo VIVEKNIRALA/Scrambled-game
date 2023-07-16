@@ -4,7 +4,7 @@ const btn = document.querySelector('.btn');
 
 
 let play = false;
-let sWords = ['python', 'javascript','c++', 'php', 'java', 'html', 'css', 'c#', 'reactjs','sql', 'swift', 'perl', 'angular'];
+let sWords = ['python', 'javascript','c++', 'php', 'java', 'html', 'css', 'c#', 'reactjs','sql', 'swift', 'perl', 'angular', 'smalltalk'];
 let newWords = "";
 let randWords = "";
 
